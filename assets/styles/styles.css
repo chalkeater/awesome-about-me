@@ -1,0 +1,16 @@
+div {
+  background-color: black;
+}
+
+.yellow-background {
+  background-color: yellow
+}
+
+.green-background {
+  background-color:aquamarine;
+  font-weight: 900;
+}
+
+#white-background {
+  background-color: white;
+}
